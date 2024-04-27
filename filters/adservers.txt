@@ -1,4 +1,3 @@
-{NewItemPlaceholder}
 @@||www.tiktok.com^$important,document
 @@||www.humblebundle.com^$important,document
 @@||pub2.accesstrade.vn^$important,document
