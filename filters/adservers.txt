@@ -1,0 +1,16 @@
+{NewItemPlaceholder}
+@@||www.tiktok.com^$important,document
+@@||www.humblebundle.com^$important,document
+@@||pub2.accesstrade.vn^$important,document
+@@||adsmanager.facebook.com^$important,document
+@@||travel.com.vn^$important,document
+hentaicube.net###pc-catfish
+@@||sso.lg.com^$important,document
+@@||metruyencv.com^$important,document
+hentaicube.net###mb-catfish-1
+hentaicube.net###mb-catfish-3 > a > img
+hentaicube.net###mb-catfish-2 > a > img
+hentaicube.net###mb-catfish-4 > a > img
+hentaicube.net###mb-catfish-5 > a > img
+hentaicube.net###mb-catfish-6 > a > img
+hentaicube.net###mb-catfish
