@@ -1,3 +1,6 @@
+! Title: CustomAds Aslan
+! Description: Filter contains all ad networks and tracking frequently accessed.
+!
 @@||www.tiktok.com^$important,document
 @@||www.humblebundle.com^$important,document
 @@||pub2.accesstrade.vn^$important,document
