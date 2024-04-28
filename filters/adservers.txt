@@ -16,3 +16,9 @@ hentaicube.net###mb-catfish-4 > a > img
 hentaicube.net###mb-catfish-5 > a > img
 hentaicube.net###mb-catfish-6 > a > img
 hentaicube.net###mb-catfish
+hentaicube.net###mb-i9-ban > a:first-child
+hentaicube.net###mb-i9-ban
+hentaicube.net###mb-i9-ban > a:nth-child(2) > img
+hentaicube.net###mb-i9-ban > a:last-child
+hentaicube.net###custom_html-19 > div.widget_text.widget__inner.widget_custom_html__inner.c-widget-wrap > div.widget_text.widget-content > div.textwidget.custom-html-widget > div > a:last-child
+hentaicube.net###custom_html-19 > div.widget_text.widget__inner.widget_custom_html__inner.c-widget-wrap > div.widget_text.widget-content > div.textwidget.custom-html-widget > div > a:nth-child(3)
