@@ -22,3 +22,5 @@ hentaicube.net###mb-i9-ban > a:nth-child(2) > img
 hentaicube.net###mb-i9-ban > a:last-child
 hentaicube.net###custom_html-19 > div.widget_text.widget__inner.widget_custom_html__inner.c-widget-wrap > div.widget_text.widget-content > div.textwidget.custom-html-widget > div > a:last-child
 hentaicube.net###custom_html-19 > div.widget_text.widget__inner.widget_custom_html__inner.c-widget-wrap > div.widget_text.widget-content > div.textwidget.custom-html-widget > div > a:nth-child(3)
+hentaicube.pro###custom_html-18 > div.widget_text.widget__inner.widget_custom_html__inner.c-widget-wrap > div.widget_text.widget-content > div.textwidget.custom-html-widget
+hentaicube.pro##div.wrap:first-child > div.body-wrap > div.c-sidebar.c-top-sidebar.wp-manga:nth-child(2) > div.container-fluid.c-container-fluid > div.row.c-row
