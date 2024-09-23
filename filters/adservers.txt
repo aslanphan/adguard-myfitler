@@ -13,3 +13,4 @@ hentaicube.net###pc-catfish
 ##div.wrap:first-child > div.body-wrap > div.c-sidebar.c-top-sidebar:nth-child(2) > div.container-fluid.c-container-fluid > div.row.c-row
 ##div.wrap:first-child > div.body-wrap > div.c-sidebar.c-top-sidebar:nth-child(2)
 ###pc-catfish
+###mb-catfish
