@@ -14,3 +14,6 @@ hentaicube.net###pc-catfish
 ##div.wrap:first-child > div.body-wrap > div.c-sidebar.c-top-sidebar:nth-child(2)
 ###pc-catfish
 ###mb-catfish
+##div.mmo.mmo-fixside.to-left:nth-child(5)
+##div.mmo.mmo-fixside.to-right:nth-child(6)
+###main-wrapper > div.watch-block:first-child > div.container > div.watch-block-area:last-child > div.container.ps-0.pe-0:nth-child(3)
