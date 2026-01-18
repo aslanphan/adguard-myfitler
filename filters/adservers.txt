@@ -7,7 +7,6 @@
 @@||pub2.accesstrade.vn^$important,document
 @@||adsmanager.facebook.com^$important,document
 @@||travel.com.vn^$important,document
-hentaicube.net###pc-catfish
 @@||sso.lg.com^$important,document
 @@||metruyencv.com^$important,document
 ##div.wrap:first-child > div.body-wrap > div.c-sidebar.c-top-sidebar:nth-child(2) > div.container-fluid.c-container-fluid > div.row.c-row
@@ -17,3 +16,10 @@ hentaicube.net###pc-catfish
 ##div.mmo.mmo-fixside.to-left:nth-child(5)
 ##div.mmo.mmo-fixside.to-right:nth-child(6)
 ###main-wrapper > div.watch-block:first-child > div.container > div.watch-block-area:last-child > div.container.ps-0.pe-0:nth-child(3)
+###wrapper > div.container > div.spr.mb-4:nth-child(3)
+###wrapper > div.container > div.spr.pos-watch-4.mb-4:first-child
+###layout_watch > div.spr.pos-watch-1:nth-child(2)
+###layout_watch > div.spr.pos-watch-2:nth-child(4)
+###wrapper > div.container > div.spr.mt-5:last-child
+##div.sspp-area.is-wide.is-catfish.no-swap:last-child
+###wrapper > div.container > div.spr.mb-4:first-child
