@@ -23,3 +23,9 @@
 ###wrapper > div.container > div.spr.mt-5:last-child
 ##div.sspp-area.is-wide.is-catfish.no-swap:last-child
 ###wrapper > div.container > div.spr.mb-4:first-child
+###secondary_column > div.spr:nth-child(2)
+###secondary_column > div.spr:nth-child(4)
+###secondary_column > div.spr:nth-child(6)
+###primary_column > div.sspp-area.is-wide.dual.no-swap:nth-child(2)
+###primary_column > div.sspp-area.is-wide.dual.no-swap:nth-child(4)
+###primary_column > div.sspp-area.is-wide.dual.no-swap:nth-child(6)
