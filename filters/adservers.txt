@@ -9,23 +9,23 @@
 @@||travel.com.vn^$important,document
 @@||sso.lg.com^$important,document
 @@||metruyencv.com^$important,document
-##div.wrap:first-child > div.body-wrap > div.c-sidebar.c-top-sidebar:nth-child(2) > div.container-fluid.c-container-fluid > div.row.c-row
-##div.wrap:first-child > div.body-wrap > div.c-sidebar.c-top-sidebar:nth-child(2)
-###pc-catfish
-###mb-catfish
-##div.mmo.mmo-fixside.to-left:nth-child(5)
-##div.mmo.mmo-fixside.to-right:nth-child(6)
-###main-wrapper > div.watch-block:first-child > div.container > div.watch-block-area:last-child > div.container.ps-0.pe-0:nth-child(3)
 ###wrapper > div.container > div.spr.mb-4:nth-child(3)
-###wrapper > div.container > div.spr.pos-watch-4.mb-4:first-child
-###layout_watch > div.spr.pos-watch-1:nth-child(2)
-###layout_watch > div.spr.pos-watch-2:nth-child(4)
-###wrapper > div.container > div.spr.mt-5:last-child
-##div.sspp-area.is-wide.is-catfish.no-swap:last-child
-###wrapper > div.container > div.spr.mb-4:first-child
 ###secondary_column > div.spr:nth-child(2)
 ###secondary_column > div.spr:nth-child(4)
 ###secondary_column > div.spr:nth-child(6)
 ###primary_column > div.sspp-area.is-wide.dual.no-swap:nth-child(2)
 ###primary_column > div.sspp-area.is-wide.dual.no-swap:nth-child(4)
 ###primary_column > div.sspp-area.is-wide.dual.no-swap:nth-child(6)
+##div.fade.v-modal.d-modal.sspp-modal.no-swap.modal.show:nth-child(52) > div.modal-dialog.modal-dialog-centered
+###wrapper > div.container > div.spr.mb-4:first-child
+###wrapper > div.container > div.spr.mb-4:nth-child(3)
+###primary_column > div.sspp-area.is-wide.dual.no-swap:nth-child(2)
+###primary_column > div.sspp-area.is-wide.dual.no-swap:nth-child(4)
+###primary_column > div.sspp-area.is-wide.dual.no-swap:nth-child(6)
+###secondary_column
+###wrapper > div.container > div.spr.mt-5:last-child
+##div.sspp-area.is-wide.is-catfish.no-swap:last-child
+###wrapper > div.container > div.spr.pos-watch-4.mb-4:first-child
+###layout_watch > div.spr.pos-watch-1:nth-child(2)
+###layout_watch > div.spr.pos-watch-2:nth-child(4)
+##div.sspp-area.is-wide.is-catfish.no-swap:last-child
